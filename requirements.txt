@@ -1,0 +1,4 @@
+numpy
+webrtcvad-wheels        # VAD (말하는 구간 검출)
+sherpa-onnx             # STT_ENGINE=sensevoice
+faster-whisper          # STT_ENGINE=whisper (사용하지 않으면 생략 가능)
